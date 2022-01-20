@@ -1,4 +1,6 @@
 #fourthTest
 ##braA
 ##main
-##test1g
+##test1
+
+この文章をカットしてキャッシュに登録
